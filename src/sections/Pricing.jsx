@@ -17,7 +17,7 @@ const Pricing = () => {
               Flexible pricing for teams of all sizes
             </h3> */}
             <center className=" max-md: max-w-full max-h-full max-lg:max-w-full  ">
-              <img src="/images/mine/hero.png"/>
+              <img src="./images/mine/hero.png"/>
             </center>
 
             <div className="relative z-4 mx-auto flex w-[300px] rounded-3xl border-[3px] border-s4/25 bg-s1/50 p-2 backdrop-blur-[6px] max-md:w-[200px]">
@@ -45,14 +45,14 @@ const Pricing = () => {
 
             <div className="pricing-bg">
               <img
-                src="/images/bg-outlines.svg"
+                src="./images/bg-outlines.svg"
                 width={960}
                 height={380}
                 alt="outline"
                 className="relative z-2"
               />
               <img
-                src="/images/bg-outlines-fill.png"
+                src="./images/bg-outlines-fill.png"
                 width={960}
                 height={380}
                 alt="outline"
@@ -142,7 +142,7 @@ const Pricing = () => {
                       className="relative flex items-center gap-5"
                     >
                       <img
-                        src={"/images/check.png"}
+                        src={"./images/check.png"}
                         alt="check"
                         className="size-10 object-contain"
                       />

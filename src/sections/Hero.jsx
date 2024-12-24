@@ -17,13 +17,13 @@ const Hero = () => {
             AlphaTradeZone will help you grow in the trading world! Take our hand and let’s get started!.
             </p>
             <LinkScroll to="features" offset={-100} spy smooth>
-              <Button icon="/images/zap.svg">join Premium</Button>
+              <Button icon="./images/zap.svg">join Premium</Button>
             </LinkScroll>
           </div>
 
           <div className="absolute -top-32 left-[calc(50%-340px)] w-[1230px] pointer-events-none hero-img_res">
             <img
-              src="/images/mine/hero3.png"
+              src="./images/mine/hero3.png"
               className="size-1230 max-lg:h-auto"
               alt="hero"
             />

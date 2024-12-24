@@ -14,10 +14,10 @@ const Download = () => {
             <div className="relative mr-6 flex-540 max-xl:flex-280 max-lg:flex256 max-md:flex-100">
               <div className="mb-10">
                 <img
-                  src="/images/atz.svg"
+                  src="./images/atz.svg"
                   width={160}
                   height={55}
-                  alt="xora"
+                  alt="atz"
                 />
               </div>
 
@@ -40,7 +40,7 @@ const Download = () => {
                         <Marker />
                       </span>
                       <img
-                        src={"/images/lines.svg"}
+                        src={"./images/lines.svg"}
                         alt="lines"
                         className="absolute size-13/20 object-contain"
                       />
@@ -59,7 +59,7 @@ const Download = () => {
                   <span className="download_preview-dot left-16 bg-p1/15" />
 
                   <img
-                    src="/images/screen.jpg"
+                    src="./images/screen.jpg"
                     width={855}
                     height={655}
                     alt="screen"
@@ -73,13 +73,13 @@ const Download = () => {
           <ul className="mt-24 flex justify-center  max-lg:hidden">
             {/* {logos.map(({ id, url, width, height, title }) => ())} */}
               <li className="mx-16 ">
-                <img src={"/images/logos/afterpay.svg"} width={194} height={48} alt={"bybit"} />
+                <img src={"./images/logos/afterpay.svg"} width={194} height={48} alt={"bybit"} />
               </li>
               <li className="mx-16 ">
-                <img src={"/images/logos/amplitude.svg"} width={194} height={48} alt={"cornix"} />
+                <img src={"./images/logos/amplitude.svg"} width={194} height={48} alt={"cornix"} />
               </li>
               <li className="mx-16 mt-8 ">
-                <img src={"/images/logos/sonos.svg"} width={215} height={48} alt={"trading view"} />
+                <img src={"./images/logos/sonos.svg"} width={215} height={48} alt={"trading view"} />
               </li>
             
           </ul>

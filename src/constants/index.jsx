@@ -2,12 +2,12 @@
 export const features = [
     {
       id: "0",
-      icon: "/images/feature-1.png",
+      icon: "./images/feature-1.png",
       caption: "SAVE TIME and EFFORT",
       title: "Work smarter not harder",
       text: "We created AlphaTradeZone® in 2017. Our mission is to SAVE TIME and EFFORT to novice and advanced crypto traders and help boosting PROFITS and CONSISTENCY of results.Don’t like reading? Watch the video!",
       button: {
-        icon: "/images/magictouch.svg",
+        icon: "./images/magictouch.svg",
         title: "Watch the demo",
       },
     },
@@ -27,92 +27,92 @@ export const features = [
   export const details = [
     {
       id: "0",
-      icon: "/images/detail-1.png",
+      icon: "./images/detail-1.png",
       title: "Razor fast updates on market shifting news",
     },
     {
       id: "1",
-      icon: "/images/detail-2.png",
+      icon: "./images/detail-2.png",
       title: "Battle tested Technical Analysis edge",
     },
     {
       id: "2",
-      icon: "/images/detail-3.png",
+      icon: "./images/detail-3.png",
       title: "Disciplined risk management",
     },
     {
       id: "3",
-      icon: "/images/detail-4.png",
+      icon: "./images/detail-4.png",
       title: "Hedged trading strategies",
     },
   ];
   
   export const faq = [
     {
-      icon: "/images/botton-19.png",
+      icon: "./images/botton-19.png",
       id: "0",
       question: "Proven track record",
       answer:
         "All our trades since 2017 can be verified. Every.Single.Trade.",
     },
     {
-      icon: "/images/botton 25.png",
+      icon: "./images/botton 25.png",
       id: "1",
       question: "We NEVER stopped learning. It’s a lifelong process",
       answer:
         "We keep exploring new and better approaches to trading to ensure higher quality signals. Our skill has immensely improved in time. Markets are more competitive so improving is key to consistency..",
     },
     {
-      icon: "/images/botton 28.png",
+      icon: "./images/botton 28.png",
       id: "2",
       question: "Hedged trading strategies",
       answer:
         "We incorporate diversified approach to trading. Some strategies perform better in different market conditions, that’s how we ensure lower risk exposure, less drawdowns and consistent performance.",
     },
     {
-      icon: "/images/botton 3.png",
+      icon: "./images/botton 3.png",
       id: "3",
       question: "Personal approach",
       answer:
         "Having an individual issue? We are open to discuss personal issues/struggles/obstacles. Our goal is to help EACH and every one of you.",
     },
     {
-      icon: "/images/detail-4.png",
+      icon: "./images/detail-4.png",
       id: "4",
       question: "?",
       answer:
         ".",
     },
     {
-      icon: "/images/detail-4.png",
+      icon: "./images/detail-4.png",
       id: "5",
       question: "??",
       answer:
         "",
     },
     {
-      icon: "/images/detail-4.png",
+      icon: "./images/detail-4.png",
       id: "6",
       question: "???",
       answer:
         "A",
     },
     {
-      icon: "/images/botton 3.png",
+      icon: "./images/botton 3.png",
       id: "3",
       question: "Personal approach",
       answer:
         "Having an individual issue? We are open to discuss personal issues/struggles/obstacles. Our goal is to help EACH and every one of you.",
     },
     {
-      icon: "/images/botton 4.png",
+      icon: "./images/botton 4.png",
       id: "8",
       question: "LIVE trade management",
       answer:
         "After we fire a signal, our best trader is managing it live to ensure maximum profit and eliminate risk ASAP. This is valid for EVERY trade. Usually crypto signal groups just forget about the trade after they give you a signal. We are in a league of our own.",
     },
     {
-      icon: "/images/detail-4.png",
+      icon: "./images/detail-4.png",
       id: "9",
       question: "Full Control Over Customization:",
       answer:
@@ -133,8 +133,8 @@ export const features = [
         " Automated Trading (Cornix)",
         "Price action training course",        
       ],
-      icon: "/images/circle.svg",
-      logo: "/images/plan-1.png",
+      icon: "./images/circle.svg",
+      logo: "./images/plan-1.png",
     },
     {
       id: "1",
@@ -148,8 +148,8 @@ export const features = [
         "1 to 1 coaching&mentoring",
         "Exclusive VIP chat room",
       ],
-      icon: "/images/triangle.svg",
-      logo: "/images/plan-2.png",
+      icon: "./images/triangle.svg",
+      logo: "./images/plan-2.png",
     },
     {
       id: "2",
@@ -163,8 +163,8 @@ export const features = [
         "no extra charge on future updates",
         "Advanced learning Material",
       ],
-      icon: "/images/hexagon.svg",
-      logo: "/images/plan-3.png",
+      icon: "./images/hexagon.svg",
+      logo: "./images/plan-3.png",
     },
   ];
   
@@ -173,7 +173,7 @@ export const features = [
       id: "0",
       name: "Jessica Saunders",
       role: "",
-      avatarUrl: "/images/testimonials/jessica-saunders.png",
+      avatarUrl: "./images/testimonials/jessica-saunders.png",
       comment:
         "Told you i need 1 month to test your service didn't I? Been a week now and i'm subscribing forever man",
     },
@@ -181,7 +181,7 @@ export const features = [
       id: "1",
       name: "Mark Erixon",
       role: "",
-      avatarUrl: "/images/testimonials/mark-erixon.png",
+      avatarUrl: "./images/testimonials/mark-erixon.png",
       comment:
         "Guys, you're in different leauge. i dont know what kind of trades i was doing bedore joining here. i guess I'm stuck here for longtime",
     },
@@ -189,7 +189,7 @@ export const features = [
       id: "2",
       name: "Melanie Hurst",
       role: "",
-      avatarUrl: "/images/testimonials/melanie-hurst.png",
+      avatarUrl: "./images/testimonials/melanie-hurst.png",
       comment:
         "Thanks, Im trying to be a better trader and your calls give me more confidence.I am not only copy pasting your signals blindly  .",
     },
@@ -197,7 +197,7 @@ export const features = [
       id: "3",
       name: "Gernot",
       role: "",
-      avatarUrl: "/images/testimonials/alicia-barker.png",
+      avatarUrl: "./images/testimonials/alicia-barker.png",
       comment:
         "Seems to be much trustworthy here.Talin is fast and nice responses was really impressing me!",
     },
@@ -223,7 +223,7 @@ export const features = [
       id: "1",
       name: "Profitable trades",
       role: "Longterm profitability of our signals is ensured through:",
-      avatarUrl: "/images/offer/botton 2.png",
+      avatarUrl: "./images/offer/botton 2.png",
       comment:
         "Backtested proven trading strategies",
       comment2:"Strict risk management of every call",
@@ -233,7 +233,7 @@ export const features = [
       id: "0",
       name: "Education",
       role: "For Beginners to advanced traders",
-      avatarUrl: "/images/offer/botton 7.png",
+      avatarUrl: "./images/offer/botton 7.png",
       comment:
         "beginner : get started guides",
         comment2:"Intermediate : Technical analysis.   ",
@@ -244,7 +244,7 @@ export const features = [
       id: "2",
       name: "Guidance",
       role: "We are open to questions 24/7 in the chat.",
-      avatarUrl: "/images/offer/botton 9.png",
+      avatarUrl: "./images/offer/botton 9.png",
       comment:
         "Seek help about your position? ASK!",
         comment2:"Need portfolio advise? ",
@@ -254,7 +254,7 @@ export const features = [
       id: "3",
       name: "Personal approach",
       role: "we will walk you through anything",
-      avatarUrl: "/images/offer/botton 14.png",
+      avatarUrl: "./images/offer/botton 14.png",
       comment:
         "",
         comment2:"Strict risk management of every call.",
@@ -267,21 +267,21 @@ export const features = [
     {
       id: "0",
       title: "bybit",
-      url: "/images/logos/afterpay.svg",
+      url: "./images/logos/afterpay.svg",
       width: 194,
       height: 48,
     },
     {
       id: "1",
       title: "cornix",
-      url: "/images/logos/amplitude.svg",
+      url: "./images/logos/amplitude.svg",
       width: 194,
       height: 48,
     },
     {
       id: "2",
       title: "trading view",
-      url: "/images/logos/sonos.svg",
+      url: "./images/logos/sonos.svg",
       width: 194,
       height: 48,
     },
@@ -447,25 +447,25 @@ export const features = [
     {
       id: "0",
       title: "x",
-      icon: "/images/socials/x.svg",
+      icon: "./images/socials/x.svg",
       url: "#",
     },
     {
       id: "1",
       title: "Threads",
-      icon: "/images/socials/threads.svg",
+      icon: "./images/socials/threads.svg",
       url: "#",
     },
     {
       id: "2",
       title: "Instagram",
-      icon: "/images/socials/instagram.svg",
+      icon: "./images/socials/instagram.svg",
       url: "#",
     },
     {
       id: "3",
       title: "Discord",
-      icon: "/images/socials/discord.svg",
+      icon: "./images/socials/discord.svg",
       url: "https://discord.gg/VAbbX9X3Xj",
     },
   ];
